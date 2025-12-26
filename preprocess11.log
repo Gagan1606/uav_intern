@@ -1,0 +1,17 @@
+True
+NVIDIA GeForce RTX 2080
+Using device: cuda
+GPU name: NVIDIA GeForce RTX 2080
+Total MOS entries found: 930
+First 3 MOS entries: [('4armsMonstre_Octree_1.ply', 3.71875), ('4armsMonstre_Octree_2.ply', 3.3125), ('4armsMonstre_Octree_3.ply', 3.14285714285714)]
+
+Processing file: FishV1_GammaNoise_7.ply
+Number of patches: 50
+
+Processing file: BirdToucan_MeanShift_3.ply
+Number of patches: 50
+
+Processing file: BricksWall_GammaNoise_7.ply
+Number of patches: 50
+
+Processing file: BB8New_SaltpepperNoise_7.ply
